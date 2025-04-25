@@ -1,4 +1,4 @@
-# WhiteListing-Minting📜 WhiteListing-Minting
+# WhiteListing-Minting
 A smart contract system for managing whitelist-based NFT minting. This repository includes Solidity contracts and supporting scripts that allow only pre-approved (whitelisted) addresses to mint tokens during an exclusive minting phase. Ideal for NFT projects with private sale rounds or early access drops.
 
 Features:
